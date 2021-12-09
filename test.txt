@@ -10,3 +10,5 @@ dev branch test
 ndev branch test2
 
 this is branch of newtest
+
+this is test of delete branch
